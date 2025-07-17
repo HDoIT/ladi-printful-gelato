@@ -117,7 +117,7 @@
 :after,
 :before {
     box-sizing: border-box;
-    border: 0 solid #e5e7eb
+    border: 0 solid 0 solid #ff0000;
 }
 
 :after,
